@@ -1,3 +1,15 @@
+#################
+## Project specific files
+#################
+
+## Ignore Temp and Log folder
+
+# User-specific files
+PasswordReset/Temp/*
+PasswordReset/Log/*
+PasswordReset/Images/*
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
