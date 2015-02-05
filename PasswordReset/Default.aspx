@@ -22,7 +22,7 @@
 <body>
     <div>
     	<h1 align="Left">
-				<img src="images/HP-logo-pr.gif" style="float:left;margin:0 15px 0 0;" />
+				<img src="images/logo.gif" style="float:left;margin:0 15px 0 0;" />
 				Password Reset<BR> for domain: 
 		</h1>
         <table>
